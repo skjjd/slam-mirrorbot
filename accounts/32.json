@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "river-engine-340502",
+  "private_key_id": "4fbcd4c7c482d03401aa02b96fb9b821f9d357c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfY9UY0CC6/M0S\nkJbBEXIdtpgLqOvlUp8ogCp7LY9tmFz7uYJokRgujn19Na1WiP6NXzqiSZFj1U1b\nF0n2HqTJWcIZN+VbpfcwmtISQG5PAOzfA6AKpsPF3+FCWIJAUNQNAPugDx4Ftyr3\nEBADHWVS4kNfAwdBwwA/ob4Y4Zam7z9fAHBxwiu/ZoVx7bv9ClYcg0IlQrnblSib\ns8JXA3ti2irLqGRyCwwffUPrI4zpWAe0thBhCCQXk3PtGsAFcHXJGvOnyGjOi0Mv\nHWTu3VmyBlq/HIw+L0YsO2teTvC1uHRI43GCwdBlhe5troljW78M72kew5o2hVfU\nS6yBgreRAgMBAAECggEADEXVXXb/Ii6/gp+v//c+LHQIEpPD8DEzsJxnyPrJ2bQ6\n6qYO2MrdTA5sMrUsnuZnBU8xFlhoUcHVlj89km4rHZbj92mipzMpDKzLIp0j8UDe\nvFBM5S0Qk36o22ExzE58+XBbL6iiVOnU7Nenh/neOKrT6a+zwhhH/15Oox9RqJJR\n16DoeaiYtKG6Y9JL+7/7krneVF3mmwuI6LxWC3zWtLoCREVNUss80DqW1UdC0xMN\nSn5IorymfM3V4xtWEpAsgyGNEUxOjQn6fvAHqy40zItfT1RrXlyAJIQ3NcL2IFSR\nI0/EUNXkhIAHOhnX6OA79M66x0ccA0q1ijngjIpc0QKBgQDNyDgauOUq3nGZbPRc\n+zMrhTbYRUmem48cS1TvmTTwe4lKtlWh1i8W18WSPETmY2Q5OgWhjFxMu8/a1zo/\nF3DQuA/0hTgUGLmiuf1DA5qnjqB9sMz56pDHIOOTKOvtuE0KKjr+T8Ob04XnFEhD\nJIj6Gw3Mq1d2u2RXukcvNn4BuQKBgQDGSV4PtddXVnPWI6gfgKtH06ILU4Npm0F4\nA6cwZjnhB0Pwd8NGtPFFs+fimB/5ST8ix11rEBz42xGzcWjFHe05x+yPj3a09ErS\nHU8uC68OyQZrxs6Q4RajnsyaQTlEFojATgUdrLX45BsBhXShcrnrdcWT+nxrzXqf\n8d5M82kwmQKBgDfUy8wMQDkKUz3yPrZ/fRmgsgmpetjqkcB2e9vp8GAS1GQN5lvb\nVblX34XWjkcHzmhsYpy7DUvQZQuV+3qkrHokhkesYVOqhast1RX6g1pUqxyO/H4N\n8yvjs3r4zlIX/+bzIEBhecvsbtcMPLLi1bst3eea0UcofogCxU989GEZAoGATDkd\n4HotipRgORxB38JNlXHkY+g5pxoYo7L7zR4u97McSc8wEPkzmnDbHf8Oo3yluY/b\n+HEcQgmsl0dsWAH2FHUnGdSzdEJIlNbRfkjdhZh/UGT/OTBdzI4Z5t5Vzje/X/Ve\nABdJaKD/RKlxuTJqB/qg9g6fT62QivWmV/xmHlkCgYBLMwmvAQlEbOs7aD1SfRGQ\n2PoTQtOiR3FpmW05xbyaFXJ+s+lVHGrtY4PfQpL9ixv+mBv9KSJBrJfG+I/shgOz\nzBD6A7hNWvOSIrXysZ9GosEKNZLICrRtfl/dXn9lJL0sbIH1x4sGZQlNdqEsl2cW\nCJVkuw0cAK3yav1CKhgjQw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-4ia-uxc5bz2ns95bc5olvlf2v4@river-engine-340502.iam.gserviceaccount.com",
+  "client_id": "101152874145603138874",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-4ia-uxc5bz2ns95bc5olvlf2v4%40river-engine-340502.iam.gserviceaccount.com"
+}
